@@ -5,7 +5,8 @@ build/
 dist/
 wheels/
 *.egg-info
-
+# Zaka testing file
+test.ipynb
 # Virtual environments
 .venv
 
