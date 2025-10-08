@@ -7,6 +7,7 @@ wheels/
 *.egg-info
 # Zaka testing file
 test.ipynb
+animacion_lidar_3d.html
 # Virtual environments
 .venv
 
